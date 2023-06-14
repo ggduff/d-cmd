@@ -1,3 +1,3 @@
 # d-cmd
 
-# Where shall we go?
+Where shall we go?
